@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b0e1300.chunk.css",
+    "main.js": "/static/js/main.7ea39378.chunk.js",
+    "main.js.map": "/static/js/main.7ea39378.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.af5ec623.js",
+    "runtime-main.js.map": "/static/js/runtime-main.af5ec623.js.map",
+    "static/js/2.61a705aa.chunk.js": "/static/js/2.61a705aa.chunk.js",
+    "static/js/2.61a705aa.chunk.js.map": "/static/js/2.61a705aa.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8d8d88a04434d428178b08b9065bf9b9.js": "/precache-manifest.8d8d88a04434d428178b08b9065bf9b9.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.8b0e1300.chunk.css.map": "/static/css/main.8b0e1300.chunk.css.map",
+    "static/js/2.61a705aa.chunk.js.LICENSE.txt": "/static/js/2.61a705aa.chunk.js.LICENSE.txt",
+    "static/media/abstractions.jpeg": "/static/media/abstractions.d5deebe8.jpeg",
+    "static/media/aging.png": "/static/media/aging.eb958e6d.png",
+    "static/media/alliance.png": "/static/media/alliance.ece5d135.png",
+    "static/media/bio_and_beyond.jpeg": "/static/media/bio_and_beyond.63e6be50.jpeg",
+    "static/media/cosmos.jpeg": "/static/media/cosmos.f2e0bb87.jpeg",
+    "static/media/earth.jpeg": "/static/media/earth.3d99157d.jpeg",
+    "static/media/maxplanck.jpeg": "/static/media/maxplanck.3ac5b032.jpeg",
+    "static/media/poetry.jpeg": "/static/media/poetry.84fd2602.jpeg",
+    "static/media/tlas.jpeg": "/static/media/tlas.83ff0e01.jpeg",
+    "static/media/wise_sci_and_engineering.png": "/static/media/wise_sci_and_engineering.acfebec0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af5ec623.js",
+    "static/js/2.61a705aa.chunk.js",
+    "static/css/main.8b0e1300.chunk.css",
+    "static/js/main.7ea39378.chunk.js"
+  ]
+}
